@@ -1,4 +1,4 @@
-```plaintext
+
 ![Windows 10/11](https://img.shields.io/badge/Windows-10%2F11-blue)
 ![Actual Version](https://img.shields.io/badge/Version-1.2.3-green)
 ![VirusTotal 0/72](https://img.shields.io/badge/VirusTotal-0%2F72-brightgreen)
